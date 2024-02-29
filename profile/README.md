@@ -15,5 +15,6 @@ Jesteśmy otwarci na współpracę z prywatnymi przewoźnikami, co pozwala nam s
 - Planowanie podróży z łatwością
 - Bieżące informacje o połączeniach
 - Swoboda podróżowania
+- Duża liczba przewożników i otwartość na współprace
 
 **Odkrywaj Świat z GdzieBusik! 🌍🚀**
