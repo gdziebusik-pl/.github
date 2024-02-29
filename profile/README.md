@@ -1,12 +1,19 @@
-## Hi there 👋
+# GdzieBusik - Twój Przewodnik Po Transporcie Publicznym 🚌
 
-<!--
+**O Aplikacji:**
+GdzieBusik to aplikacja transportowa dostępna na trzech różnych platformach: **iOS, Android** oraz w przeglądarce internetowej. Zapewniając szeroki zakres usług, ułatwiamy śledzenie tras i rozkładów komunikacji publicznej obsługiwanej przez różnych przewoźników, w tym **RTM Rzeszów** i **MKS/PKS Rzeszów**.
 
-**Here are some ideas to get you started:**
+**Funkcje:**
+- Śledzenie tras i rozkładów komunikacji publicznej
+- Informacje o opóźnieniach i bieżących połączeniach
+- Obsługa różnych form transportu publicznego
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Współpraca:**
+Jesteśmy otwarci na współpracę z prywatnymi przewoźnikami, co pozwala nam stale rozwijać i ulepszać naszą aplikację. Dzięki temu dostarczamy jeszcze lepsze doświadczenia podróżowania dla naszych użytkowników.
+
+**Zalety:**
+- Planowanie podróży z łatwością
+- Bieżące informacje o połączeniach
+- Swoboda podróżowania
+
+**Odkrywaj Świat z GdzieBusik! 🌍🚀**
